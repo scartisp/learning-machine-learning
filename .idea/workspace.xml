@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a95d76e3-4483-4378-b21e-ad2fb21cc349" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial/src/fcc-MAGIC-example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/src/fcc-MAGIC-example.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <workItem from="1780173349976" duration="902000" />
       <workItem from="1780174360972" duration="9872000" />
       <workItem from="1780265706934" duration="1911000" />
-      <workItem from="1780786942751" duration="307000" />
+      <workItem from="1780786942751" duration="1152000" />
     </task>
     <servers />
   </component>
