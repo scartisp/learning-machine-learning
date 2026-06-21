@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a95d76e3-4483-4378-b21e-ad2fb21cc349" name="Changes" comment="">
+    <list default="true" id="a95d76e3-4483-4378-b21e-ad2fb21cc349" name="Changes" comment="added an svm model">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial/src/fcc-MAGIC-example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/src/fcc-MAGIC-example.ipynb" afterDir="false" />
     </list>
@@ -16,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;scartisp&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/scartisp/learning-machine-learning.git&quot;,
+    &quot;accountId&quot;: &quot;46157bfb-0d17-4431-9bc6-c08d402f6207&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -63,8 +75,18 @@
       <workItem from="1780174360972" duration="9872000" />
       <workItem from="1780265706934" duration="1911000" />
       <workItem from="1780786942751" duration="1675000" />
-      <workItem from="1781370035640" duration="623000" />
+      <workItem from="1781370035640" duration="1606000" />
+      <workItem from="1782067441444" duration="5037000" />
     </task>
+    <task id="LOCAL-00001" summary="added an svm model">
+      <option name="closed" value="true" />
+      <created>1781371236560</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781371236560</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added an svm model" />
+    <option name="LAST_COMMIT_MESSAGE" value="added an svm model" />
   </component>
 </project>
